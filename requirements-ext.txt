@@ -1,0 +1,11 @@
+six
+sympy
+psutil
+cachetools
+singledispatch
+pytest ~=2.9
+pytest-xdist
+pytest-benchmark
+ipython
+matplotlib
+pylint

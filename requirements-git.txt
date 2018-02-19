@@ -1,0 +1,5 @@
+git+https://github.com/kingthur/ufl.git#egg=ufl
+git+https://github.com/kingthur/fiat.git#egg=fiat
+git+https://github.com/kingthur/FInAT.git#egg=finat
+git+https://github.com/kingthur/tsfc.git#egg=tsfc
+git+https://github.com/kingthur/PyOP2.git#egg=pyop2
